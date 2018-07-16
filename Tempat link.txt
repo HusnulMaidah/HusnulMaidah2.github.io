@@ -1,0 +1,11 @@
+		Tugas Prancangan Game
+
+Tempat ngambil codingan game phaser-examples-master
+Suara by: Risna Windari dan Soundimage.org
+Tupai buat sendiri
+Background buat sendiri
+Platform buat sendiri
+Bom buat sendiri
+Apel buat sendiri
+
+
